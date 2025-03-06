@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "340034ad-4d2f-4a8a-aafb-d1fd0b8d8bd0": {
+      "label": "Bishop",
+      "is_offline": false,
+      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/PS3503I785A6x1978/10_the_moose.mp3",
+      "duration": 442
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Multi-AV Audio Event",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Two versions of \"The Moose\""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-06T16:44:32.002Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-03-06T16:44:32.002Z",
+  "updated_by": "SteveMarvin"
+}

@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "cc74a2aa-e966-41d5-bffb-ba4abf4bb7e0": {
+      "label": "AV File 1",
+      "is_offline": false,
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/149/546/original/spokenweb__readings___discussion_by_ifeoma_chinwuba_and_titilope_sonuga_%281080p%29.mp4?1645720663",
+      "duration": 4109
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Imported Event 1",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "TestingThat was a paragraph break.That was another longer paragraph break."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-06T16:44:32.002Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-03-06T16:44:32.002Z",
+  "updated_by": "SteveMarvin"
+}
